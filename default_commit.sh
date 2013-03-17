@@ -1,5 +1,7 @@
 # !bin/sh
 
+# production push for Memeja servers
+
 cd ~/memeja
 
 echo 'ADDING ALL NEW FILES (IF ANY)'

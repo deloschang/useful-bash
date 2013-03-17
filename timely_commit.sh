@@ -1,5 +1,7 @@
 # !bin/sh
 
+# generic script that can work for any repo..
+
 cd ~/Documents/eclipseworkspace/Timely/
 
 echo 'ADDING ALL NEW FILES (IF ANY)'

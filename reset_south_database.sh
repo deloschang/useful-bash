@@ -1,5 +1,7 @@
 # !bin/sh
 
+# resets all the databases in Django
+
 cd ~/memeja
 rm -r webapp/migrations
 rm -r invitation/migrations
